@@ -1,4 +1,4 @@
-### Gantt Chart 생성 및 시각화
+ ### Gantt Chart 생성 및 시각화
 `clear_gantt()`
 `add_gantt_block`
 `print_gantt_chart`
